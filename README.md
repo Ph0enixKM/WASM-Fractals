@@ -1,5 +1,9 @@
 # 🏁 Web Assembly vs JavaScript
 
+<div align="center">
+    <img src="wasm-vs-js.png" width="300" />
+</div>
+
 A project showing Web Assembly and JavaScript performance in a fractal explorer.
 You can see the resulting effect [here](https://ph0enixkm.github.io/WASM-Fractals/).
 
